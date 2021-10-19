@@ -5933,3 +5933,7 @@ footer.footer-area .f-menu a:hover {
   background: #151a33;
   border-color: #151a33;
 }
+
+.modal-body img {
+  width: 100%;
+}
