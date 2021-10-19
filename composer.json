@@ -1,0 +1,19 @@
+{
+    "name": "zakhar/hobby-world",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zadochek",
+            "email": "63045181+zadochek@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6",
+        "electrolinux/phpquery": "^0.9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
